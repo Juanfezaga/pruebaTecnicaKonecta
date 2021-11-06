@@ -1,0 +1,6 @@
+com\konecta\pruebatecnica\repository\EmpleadoRepository.class
+com\konecta\pruebatecnica\repository\SolicitudRepository.class
+com\konecta\pruebatecnica\controllers\MainController.class
+com\konecta\pruebatecnica\models\Empleado.class
+com\konecta\pruebatecnica\PruebatecnicaApplication.class
+com\konecta\pruebatecnica\models\Solicitud.class
